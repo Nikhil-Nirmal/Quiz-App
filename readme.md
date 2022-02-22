@@ -2,7 +2,7 @@
 # Master Mind
 
 A dream quiz for anime lovers.
-The quiz contains 3 different anime's tp choose from.
+The quiz contains 3 different anime's to choose from.
 1. Jujutsu Kaisen,
 2. Bleach,
 3. Attact on titan.
